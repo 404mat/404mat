@@ -31,7 +31,7 @@ I'm a web developer that has worked on Spring Boot APIs and frontend frameworks 
 ### IDEs
 | Visual Studio Code| IntelliJ|Eclipse
 |--|--|--|
-|![vscode-logo](assets/vscode-logo.png)| ![intellij-logo](assets/itellij-logo.png)| ![eclipse-logo](assets/eclipse-logo.png)|
+|![vscode-logo](assets/vscode-logo.png)| ![intellij-logo](assets/intellij-logo.png)| ![eclipse-logo](assets/eclipse-logo.png)|
 
 ### OS
 | Windows| MacOS|Linux
