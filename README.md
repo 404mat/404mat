@@ -7,12 +7,12 @@ I'm a web developer that has worked on Spring Boot APIs and frontend frameworks 
 
 | JavaScript | TypeScript | Java| SQL
 |--|--|--|--|
-|![js-logo](assets/js-logo.png)| ![ts-logo](assets/ts-logo.png)| ![java-logo](assets/java-logo.png)| ![sql-logo](assets/sql-logo.png)
+|![js-logo]| ![ts-logo]| ![java-logo](assets/java-logo.png)| ![sql-logo](assets/sql-logo.png)
 
 ### Frameworks
 | Angular| React| React Native| Spring Boot
 |--|--|--|--|
-|![angular-logo](assets/angular-logo.png) | ![react-logo](assets/react-logo.png) | ![java-logo](assets/java-logo.png)| ![spring-logo](assets/spring-logo.png)
+|![angular-logo](assets/angular-logo.png) | ![react-logo](assets/react-logo.png) | ![reactnative-logo](assets/reactnative-logo.png)| ![spring-logo](assets/spring-logo.png)
 ### Databases
 | PostgreSQL| Azure|
 |--|--|
