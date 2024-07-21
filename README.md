@@ -14,7 +14,7 @@ I'm a web developer that has worked on Spring Boot APIs and frontend frameworks 
 |--|--|--|--|
 |![angular-logo](assets/angular-logo.png) | ![react-logo](assets/react-logo.png) | ![reactnative-logo](assets/reactnative-logo.png)| ![spring-logo](assets/spring-logo.png)
 ### Databases
-| PostgreSQL| Azure| MongoDF
+| PostgreSQL| Azure| MongoDB
 |--|--|--|
 |![postgres-logo](assets/postgres-logo.png)  | ![azure-logo](assets/azure-logo.png)| ![mongodb-logo](assets/mongodb-logo.png) |
 
