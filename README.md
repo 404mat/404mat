@@ -1,6 +1,6 @@
 ## Hi 👋🏼
 
-I'm a web developer that has worked on Spring Boot APIs and frontend frameworks (mainly Angular). I'm currently exploring interests in software architecture, fintech and Web3 / AI technologies.
+I'm a web developer that has worked on Spring Boot APIs and frontend frameworks. I'm currently exploring interests in software architecture, fintech and Web3 / AI technologies.
 
 ## Languages and tools
 ### Languages
