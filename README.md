@@ -1,39 +1,37 @@
-## Hi 👋🏼
+<h1 align="center">Hi, I'm <a href="about:blank">Mathias</a> 🙋🏽‍♂️</h1>
 
-I'm a web developer that has worked on Spring Boot APIs and frontend frameworks. I'm currently exploring interests in software architecture, fintech and Web3 / AI technologies.
+<p align="center">
+    <a href="https://github.com/404mat">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+        <img alt="GitHub" title="GitHub" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/github">
+    </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/mathias-decaille">
+    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/linkedin">
+    </a>
+    <a href="https://www.npmjs.com/~404mat">
+    <img alt="npm" title="npm" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/npm">
+    </a>
+</p>
 
-## Languages and tools
-### Languages
+<h3 align="center">I work with:</h3>
+<p align="center">
+    <img alt="JavaScript" title="JavaScript" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/javascript">
+    <img alt="TypeScript" title="TypeScript" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/typescript">
+    <img alt="React" title="React" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/react">
+    <img alt="Node.js" title="Node.js" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/nodedotjs">
+    <img alt="Angular" title="Angular" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/angular/BD032D">
+    <img alt="Spring" title="Spring" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/spring">
+</p>
 
-| JavaScript | TypeScript | Java| SQL
-|--|--|--|--|
-|![js-logo](assets/js-logo.png)| ![ts-logo](assets/ts-logo.png)| ![java-logo](assets/java-logo.png)| ![sql-logo](assets/sql-logo.png)
+<h3 align="center">I work in:</h3>
+<p align="center">
+    <img alt="vscode" title="vscode" height="32" width="32" style="margin:0 5 0 5" src="assets/vscode.svg">
+    <img alt="Jetbrains" title="Jetbrains" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/jetbrains/black/white">
+    <img alt="MacOS" title="MacOs" height="32" width="32" style="margin:0 5 0 5" src="https://cdn.simpleicons.org/apple/black/white">
+    <img alt="Windows" title="Windows" height="32" width="32" style="margin:0 5 0 5" src="assets/windows-logo.svg">
+</p>
 
-### Frameworks
-| Angular| React| React Native| Spring Boot
-|--|--|--|--|
-|![angular-logo](assets/angular-logo.png) | ![react-logo](assets/react-logo.png) | ![reactnative-logo](assets/reactnative-logo.png)| ![spring-logo](assets/spring-logo.png)
-### Databases
-| PostgreSQL| Azure| MongoDB
-|--|--|--|
-|![postgres-logo](assets/postgres-logo.png)  | ![azure-logo](assets/azure-logo.png)| ![mongodb-logo](assets/mongodb-logo.png) |
-
-### Tools
-| Git| Docker|Postman| CI/CD
-|--|--|--|--|
-|![git-logo](assets/git-logo.png)| ![docker-logo](assets/docker-logo.png)| ![postman-logo](assets/postman-logo.png)| ![jenkins-logo](assets/jenkins-logo.png) ![concourse-logo](assets/concourse-logo.png)
-
-### Environnements
-| Node.js|
-|--|
-|![node-logo](assets/node-logo.png)|
-
-### IDEs
-| Visual Studio Code| IntelliJ|Eclipse
-|--|--|--|
-|![vscode-logo](assets/vscode-logo.png)| ![intellij-logo](assets/intellij-logo.png)| ![eclipse-logo](assets/eclipse-logo.png)|
-
-### OS
-| Windows| MacOS|Linux
-|--|--|--|
-|![windows-logo](assets/windows-logo.png)  |![macos-logo](assets/macos-logo.png) | ![linux-logo](assets/linux-logo.png)|
+<h3 align="center">I work on:</h3>
+<p align="center">Coming soon...</p>
