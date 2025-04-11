@@ -34,6 +34,6 @@
 <h3 align="center">I work on:</h3>
 <p align="center">
     <a href="https://github.com/404mat/open-planning">
-        <img alt="open-planning" title="open-planning" height="32" width="32" style="margin:0 10 0 10" src="assets/openplanningicon.png">
+        <img alt="open-planning" title="open-planning" height="42" width="42" style="margin:0 10 0 10" src="assets/openplanningicon.png">
     </a>
 </p>
