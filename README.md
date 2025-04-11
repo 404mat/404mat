@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm <a href="about:blank">Mathias</a> 🙋🏽‍♂️</h1>
+<h1 align="center">Hi, I'm Mathias 🙋🏽‍♂️</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mathias-decaille">
-    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/linkedin">
+    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" style="margin:0 10 0 10" src="assets/linkedin.svg">
     </a>
     <a href="https://www.npmjs.com/~404mat">
     <img alt="npm" title="npm" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/npm">
