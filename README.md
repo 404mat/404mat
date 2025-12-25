@@ -4,12 +4,8 @@
     <a href="https://www.linkedin.com/in/mathias-decaille">
     <img alt="LinkedIn" title="LinkedIn" height="32" width="32" style="margin:0 10 0 10" src="assets/linkedin.svg">
     </a>
-    <a href="https://www.npmjs.com/~404mat">
-    <img alt="npm" title="npm" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/npm">
-    </a>
-    </a>
-    <a href="https://codepen.io/404mat">
-    <img alt="codepen" title="codepen" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/codepen/black/white">
+    <a href="https://x.com/mathiad_">
+    <img alt="x-twitter" title="X (Twitter)" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/x/black/white">
     </a>
 </p>
 
