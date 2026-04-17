@@ -1,35 +1,24 @@
 <h1 align="center">Hi, I'm Mathias 🙋🏽‍♂️</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mathias-decaille">
-    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" style="margin:0 10 0 10" src="assets/linkedin.svg">
-    </a>
-    <a href="https://x.com/mathiad_">
-    <img alt="x-twitter" title="X (Twitter)" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/x/black/white">
-    </a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/social-logos-dark.png">
+        <img alt="LinkedIn and X" title="LinkedIn and X" height="32" width="80" src="assets/social-logos-light.png">
+    </picture>
 </p>
 
 <h3 align="center">I work with:</h3>
 <p align="center">
-    <img alt="JavaScript" title="JavaScript" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/javascript">
-    <img alt="TypeScript" title="TypeScript" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/typescript">
-    <img alt="React" title="React" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/react">
-    <img alt="Node.js" title="Node.js" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/nodedotjs">
-    <img alt="Angular" title="Angular" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/angular/BD032D">
-    <img alt="Spring" title="Spring" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/spring">
+    <img alt="JavaScript, TypeScript, React, Node.js, Angular, and Spring" title="JavaScript, TypeScript, React, Node.js, Angular, and Spring" height="32" width="272" src="assets/work-with-logos.png">
 </p>
 
 <h3 align="center">I work using:</h3>
 <p align="center">
-    <img alt="vscode" title="vscode" height="32" width="32" style="margin:0 10 0 10" src="assets/vscode.svg">
-    <img alt="Jetbrains" title="Jetbrains" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/jetbrains/black/white">
-    <img alt="MacOS" title="MacOs" height="32" width="32" style="margin:0 10 0 10" src="https://cdn.simpleicons.org/apple/black/white">
-    <img alt="Windows" title="Windows" height="32" width="32" style="margin:0 10 0 10" src="assets/windows-logo.svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/tool-logos-dark.png">
+        <img alt="VS Code, JetBrains, macOS, and Windows" title="VS Code, JetBrains, macOS, and Windows" height="32" width="176" src="assets/tool-logos-light.png">
+    </picture>
 </p>
 
 <h3 align="center">I work on:</h3>
-<p align="center">
-    <a href="https://github.com/404mat/open-planning">
-        <img alt="open-planning" title="open-planning" height="42" width="42" style="margin:0 10 0 10" src="assets/openplanningicon.png">
-    </a>
-</p>
+<p align="center"><a href="https://github.com/404mat/open-planning"><img alt="open-planning" title="open-planning" height="42" width="42" src="assets/openplanningicon.png"></a></p>
