@@ -21,6 +21,6 @@ I work full time in software.
 ### I work using:
 
 <img
-  src="https://skillicons.dev/icons?i=vscode,webstorm,apple,windows"
-  alt="VS Code, WebStorm, Apple, Windows"
+  src="https://skillicons.dev/icons?i=vscode,idea,apple,windows"
+  alt="VS Code, IntelliJ IDEA, Apple, Windows"
 />
