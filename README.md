@@ -1,12 +1,42 @@
-<h1 align="center">Hi, I'm Mathias 🙋🏽‍♂️</h1>
+# Hi, I'm Mathias 🙋🏽‍♂️
 
-<p align="center"><a href="https://www.linkedin.com/in/mathias-decaille"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>&nbsp;&nbsp;<a href="https://x.com/mathiad_"><img alt="x-twitter" title="X (Twitter)" height="32" width="32" src="https://cdn.simpleicons.org/x/black/white"></a></p>
+I work full time in software.
 
-<h3 align="center">I work with:</h3>
-<p align="center"><img alt="JavaScript" title="JavaScript" height="32" width="32" src="https://cdn.simpleicons.org/javascript">&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" height="32" width="32" src="https://cdn.simpleicons.org/typescript">&nbsp;&nbsp;<img alt="React" title="React" height="32" width="32" src="https://cdn.simpleicons.org/react">&nbsp;&nbsp;<img alt="Node.js" title="Node.js" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs">&nbsp;&nbsp;<img alt="Angular" title="Angular" height="32" width="32" src="https://cdn.simpleicons.org/angular/BD032D">&nbsp;&nbsp;<img alt="Spring" title="Spring" height="32" width="32" src="https://cdn.simpleicons.org/spring"></p>
+<p>
+  <a href="https://www.linkedin.com/in/mathias-decaille">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light" />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
+    </picture>
+  </a>
+  <a href="https://x.com/mathiad_">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=twitter&theme=light" />
+      <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="48" />
+    </picture>
+  </a>
+</p>
 
-<h3 align="center">I work using:</h3>
-<p align="center"><img alt="vscode" title="vscode" height="32" width="32" src="assets/vscode.svg">&nbsp;&nbsp;<img alt="Jetbrains" title="Jetbrains" height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/black/white">&nbsp;&nbsp;<img alt="MacOS" title="MacOs" height="32" width="32" src="https://cdn.simpleicons.org/apple/black/white">&nbsp;&nbsp;<img alt="Windows" title="Windows" height="32" width="32" src="assets/windows-logo.svg"></p>
+### I work with:
 
-<h3 align="center">I work on:</h3>
-<p align="center"><a href="https://github.com/404mat/open-planning"><img alt="open-planning" title="open-planning" height="42" width="42" src="assets/openplanningicon.png"></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nodejs,angular,spring&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nodejs,angular,spring&theme=light" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,nodejs,angular,spring"
+    alt="JavaScript, TypeScript, React, Node.js, Angular, Spring"
+  />
+</picture>
+
+### I work using:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,webstorm,apple,windows&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,webstorm,apple,windows&theme=light" />
+  <img
+    src="https://skillicons.dev/icons?i=vscode,webstorm,apple,windows"
+    alt="VS Code, WebStorm, Apple, Windows"
+  />
+</picture>
